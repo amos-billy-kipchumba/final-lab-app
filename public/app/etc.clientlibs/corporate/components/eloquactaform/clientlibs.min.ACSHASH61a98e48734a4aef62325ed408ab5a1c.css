@@ -1,0 +1,244 @@
+.page.corporate.basicpage .eloquactaform, .xf-web-container .eloquactaform{
+	border-radius: 4px;
+	text-align: center;
+	padding: 29px;
+	position: relative;
+	overflow: hidden;
+	font-family: Roboto;
+	margin-top: 32px;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-purple, .xf-web-container .eloquactaform.bg-purple{
+	background-color: #80276c;
+	color: #fff;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray, .xf-web-container .eloquactaform.bg-gray{
+	background-color: #F7F7F9;
+	color: #357D2C;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray .eloqua-cta-title, .xf-web-container .eloquactaform.bg-gray .eloqua-cta-title{
+	color: #357D2C;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray .eloqua-cta-description, .xf-web-container .eloquactaform.bg-gray .eloqua-cta-description{
+	color: #357D2C;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray .field-required-message .required-icon, .xf-web-container .eloquactaform.bg-gray .field-required-message .required-icon{
+	color: #357D2C;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray .eloqua-cta-description p, .xf-web-container .eloquactaform.bg-gray .eloqua-cta-description p{
+	color: #357D2C;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray h4.elq-heading, .xf-web-container .eloquactaform.bg-gray h4.elq-heading{
+	color: #357D2C;
+}
+.page.corporate.basicpage .eloquactaform.bg-gray .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style, .xf-web-container .eloquactaform.bg-gray .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style{
+	background-color: #357D2C;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style:hover,
+.xf-web-container .eloquactaform.bg-gray .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style:hover{
+	background-color: #fff;
+	color: #357D2C;
+}
+
+ .page.corporate.basicpage .eloquactaform img, .xf-web-container .eloquactaform img {
+	 position: absolute;
+	 left: -90px;
+	 top: -71px;
+	 opacity: 0.08;
+	 transform: rotate(270deg);
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-title, .xf-web-container .eloquactaform .eloqua-cta-title {
+	 font-size: 28px;
+	 margin-bottom: 14px;
+	 line-height: 36px;
+	 font-weight: 500;
+	 color: #fff;
+	 font-family: "Roboto Medium";
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-description, .xf-web-container .eloquactaform .eloqua-cta-description {
+	 color: #fff;
+	 font-family: Roboto;
+	 font-size: 17px;
+	 letter-spacing: 0;
+	 line-height: 29px;
+	 text-align: center;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-description p, .xf-web-container .eloquactaform .eloqua-cta-description p {
+	 font-size: 17px;
+	 line-height: 29px;
+	 font-family: 'Roboto';
+	 color: #fff;
+}
+ .page.corporate.basicpage .eloquactaform h4.elq-heading, .xf-web-container .eloquactaform h4.elq-heading {
+	 font-size: 17px;
+	 line-height: 29px;
+	 font-family: 'Roboto';
+	 color: #fff;
+}
+.page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid {
+    display: grid;
+	grid-template-columns: 1fr;
+	grid-auto-flow: dense;
+	align-items: center;
+	font-family: Roboto;
+	font-size: 17px;
+}
+.page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid {
+    font-family: 'Roboto Medium';
+    text-align: left;
+}
+.page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid .field-control-wrapper, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid .field-control-wrapper {
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row {
+	 width: auto;
+	 padding: 10px;
+	 height: min-content;
+	 grid-column: 1;
+	 text-align: left;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row:last-child .row .col-xs-12 div, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row:last-child .row .col-xs-12 div {
+	 text-align: left !important;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row span.LV_validation_message.LV_invalid, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row span.LV_validation_message.LV_invalid {
+	 font-size: 13px;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row span.LV_validation_message.LV_valid, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row span.LV_validation_message.LV_valid {
+	 display: none;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row input.elq-item-input.LV_invalid_field, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row input.elq-item-input.LV_invalid_field {
+	 border: 1px solid #E01A00;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row select.elq-item-select.LV_invalid_field, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row select.elq-item-select.LV_invalid_field {
+	 border: 1px solid #E01A00;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row input.elq-item-input.LV_valid_field, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row input.elq-item-input.LV_valid_field {
+	 border: 1px solid green;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row select.elq-item-select.LV_valid_field, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid > .row select.elq-item-select.LV_valid_field {
+	 border: 1px solid green;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style {
+	 outline: 0;
+	 min-height: 48px;
+	 min-width: 100px;
+	 padding: 14px 24px;
+	 border-radius: 4px;
+	 box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .22);
+	 display: inline-block;
+	 text-align: center;
+	 cursor: pointer;
+	 box-sizing: border-box;
+	 line-height: 18px;
+	 font-family: "Roboto Medium";
+	 font-size: 17px;
+	 font-weight: 500;
+	 color: #fff;
+	 background-color: #80276c;
+	 border: 1px solid #fff;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style:hover,
+ .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style:hover {
+	 background-color: #fff;
+	 color: #80276c;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid input.elq-item-input, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid input.elq-item-input {
+	 height: 48px;
+	 border: 1px solid #b5b5b7;
+	 background-color: #fff;
+	 box-sizing: border-box;
+	 padding-left: 12px;
+	 color: #000;
+	 font-family: Roboto;
+	 font-size: 17px;
+	 border-radius: 4px;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid select.elq-item-select, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid select.elq-item-select {
+	 height: 48px;
+	 border: 1px solid #b5b5b7;
+	 background-color: #fff;
+	 box-sizing: border-box;
+	 padding-left: 12px;
+	 color: #000;
+	 font-family: Roboto;
+	 font-size: 17px;
+	 border-radius: 4px;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid textarea.elq-item-textarea, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid textarea.elq-item-textarea {
+	 height: 102px;
+	 border: 1px solid #b5b5b7;
+	 background-color: #fff;
+	 box-sizing: border-box;
+	 padding-left: 12px;
+	 color: #000;
+	 font-family: Roboto;
+	 font-size: 17px;
+	 border-radius: 4px;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid label.checkbox-aligned, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid label.checkbox-aligned {
+	 padding-left: 12px;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid text-area.elq-item-textarea, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid text-area.elq-item-textarea {
+	 height: 96px;
+}
+ .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid .single-checkbox-row label.checkbox-aligned, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid .single-checkbox-row label.checkbox-aligned {
+	 padding-left: 12px;
+}
+ .page.corporate.basicpage .eloquactmform div.form-element-instruction, .xf-web-container .eloquactmform div.form-element-instruction {
+	 font-size: 15px;
+}
+ .page.corporate.basicpage .eloqua-cta-form-wrapper select.elq-item-select, .xf-web-container .eloqua-cta-form-wrapper select.elq-item-select {
+	 background: url(../../clientlibs/clientlib-site/resources/images/select-arrow.png) no-repeat right center;
+}
+ @media screen and (max-width: 991px) {
+	 .page.corporate.basicpage .eloquactaform, .xf-web-container .eloquactaform {
+		 padding: 26px;
+	}
+	 .page.corporate.basicpage .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style, .xf-web-container .eloquactaform .eloqua-cta-form-wrapper .layout.container-fluid input.submit-button-style {
+		 width: 100%;
+	}
+	 .page.corporate.basicpage .eloquactaform .eloqua-cta-title, .xf-web-container .eloquactaform .eloqua-cta-title {
+		 font-size: 23px;
+		 margin-bottom: 12px;
+		 line-height: 30px;
+	}
+	 .page.corporate.basicpage .eloquactaform .eloqua-cta-description, .xf-web-container .eloquactaform .eloqua-cta-description {
+		 font-size: 15px;
+	}
+}
+
+.page.corporate.basicpage .eloquactaform.bg-purple .layout.container-fluid .row > a,
+.xf-web-container .eloquactaform.bg-purple .layout.container-fluid .row > a{
+	color: #fff;
+	text-decoration: underline;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-purple .layout.container-fluid .row > a:hover,
+.xf-web-container .eloquactaform.bg-purple .layout.container-fluid .row > a:hover{
+	text-decoration: none;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray .layout.container-fluid .row > a,
+.xf-web-container .eloquactaform.bg-gray .layout.container-fluid .row > a{
+	text-decoration: underline;
+}
+
+.page.corporate.basicpage .eloquactaform.bg-gray .layout.container-fluid .row > a:hover,
+.xf-web-container .eloquactaform.bg-gray .layout.container-fluid .row > a:hover {
+	text-decoration: none;
+}
+
+.eloquactaform .elq-form #elq-FormLastRow{
+	position: absolute;
+	left: -80%;
+	top: -80%;
+}

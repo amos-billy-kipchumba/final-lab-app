@@ -1,0 +1,1 @@
+!function(){"use strict";function t(){var t=document.querySelectorAll(".corp-cta__title");console.log("cta component"),t.forEach((function(t){if(0!=t.children.length){var e=t.children[0].textContent.trim();""==e?t.removeAttribute("tabindex"):t.setAttribute("aria-label",e)}}))}"loading"!==document.readyState?t():document.addEventListener("DOMContentLoaded",t)}();

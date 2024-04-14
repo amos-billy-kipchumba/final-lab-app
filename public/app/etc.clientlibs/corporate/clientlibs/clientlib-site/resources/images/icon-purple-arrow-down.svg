@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path Copy 34</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0
+ 0 1 0 0 0
+ 0 0 1 0 0
+ 0 0 0 1 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="#80276c" fill-rule="evenodd">
+        <g id="Top-Nav/Patients" transform="translate(-795.000000, -137.000000)">
+            <g id="Level-2_Patients" transform="translate(610.000000, 0.000000)" filter="url(#filter-1)">
+                <g transform="translate(97.500000, 128.000000)">
+                    <polygon id="Path-Copy-34" fill="#80276c" fill-rule="nonzero" transform="translate(91.500000, 11.286905) scale(1, -1) rotate(-180.000000) translate(-91.500000, -11.286905) " points="88.44 9 91.5 11.8293512 94.56 9 95.5 9.87531126 91.5 13.5738095 87.5 9.87531126"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

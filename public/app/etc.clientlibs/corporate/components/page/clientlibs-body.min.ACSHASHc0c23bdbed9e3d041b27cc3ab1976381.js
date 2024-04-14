@@ -1,0 +1,59 @@
+function addHiddenH1(title) {
+	var pagebannerCheck = document.querySelector(".pagebanner");
+	if(pagebannerCheck == null){
+		var container = document.querySelector(".root.container");
+		var titleTag = document.createElement("h1");
+		titleTag.innerHTML = title; //"<h1 style='display:none'>"+title+"</h1>";
+		titleTag.classList.add("visually-hidden");
+		titleTag.setAttribute("aria-label",title);
+	
+		if(container != null) {
+			var subContainer = container.querySelector("#container-root");
+			if (subContainer != null) {
+				var children = subContainer.children;
+				var header = null;
+				if (children != null && children.length > 0 && children[0].tagName.toLowerCase() == "header")
+					header = children[0];
+				if (header != null) {
+					header.after(titleTag);
+				}
+				else {
+					subContainer.prepend(titleTag);
+				}
+			}
+			else {
+				container.prepend(titleTag);
+			}
+		}
+	}
+}
+
+function addHiddenH1Clinical(title) {
+	var pagebannerCheck = document.querySelector(".pagebanner");
+	if(pagebannerCheck == null){
+		var container = document.querySelector(".root.container");
+		var titleTag = document.createElement("h1");
+		titleTag.innerHTML = title; //"<h1 style='display:none'>"+title+"</h1>";
+		titleTag.classList.add("visually-hidden");
+		titleTag.setAttribute("aria-label",title);
+	
+		if(container != null) {
+			var subContainer = container.querySelector(".header");
+			if (subContainer != null) {
+				var children = subContainer.children;
+				var header = null;
+				if (children != null && children.length > 0)
+					header = children[0];
+				if (header != null) {
+					header.after(titleTag);
+				}
+				else {
+					subContainer.prepend(titleTag);
+				}
+			}
+			else {
+				container.prepend(titleTag);
+			}
+		}
+	}
+}
