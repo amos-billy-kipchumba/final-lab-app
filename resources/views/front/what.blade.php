@@ -109,7 +109,7 @@
                                                    <div class="slide-content">
                                                        <div class="card-content">
                                                            <div class="topic">Hematology</div>
-                                                           <a href="who-wants-to-live-forever--reducing-and-reversing-the-effects-of-aging.html" aria-label="Who wants to live forever?" style="display: block;">
+                                                           <a href="{{url('/')}}/what-we-do/1" aria-label="Who wants to live forever?" style="display: block;">
                                                                <img src="{{asset('/img/s1.jpg')}}" alt="" />
                                                            </a>
                                                            <div class="text-content">
@@ -124,7 +124,7 @@
                                                    <div class="slide-content">
                                                        <div class="card-content">
                                                            <div class="topic">Micro-biology & parasitology</div>
-                                                           <a href="who-wants-to-live-forever--reducing-and-reversing-the-effects-of-aging.html" aria-label="Who wants to live forever?" style="display: block;">
+                                                           <a href="{{url('/')}}/what-we-do/1" aria-label="Who wants to live forever?" style="display: block;">
                                                                <img src="{{asset('/img/s2.jpg')}}" alt="" />
                                                            </a>
                                                            <div class="text-content">
@@ -139,7 +139,7 @@
                                                    <div class="slide-content">
                                                        <div class="card-content">
                                                            <div class="topic">Clinical biochemistry</div>
-                                                           <a href="who-wants-to-live-forever--reducing-and-reversing-the-effects-of-aging.html" aria-label="Who wants to live forever?" style="display: block;">
+                                                           <a href="{{url('/')}}/what-we-do/1" aria-label="Who wants to live forever?" style="display: block;">
                                                                <img src="{{asset('/img/s3.webp')}}" alt="" />
                                                            </a>
                                                            <div class="text-content">
@@ -154,7 +154,7 @@
                                                    <div class="slide-content">
                                                        <div class="card-content">
                                                            <div class="topic">Serology</div>
-                                                           <a href="who-wants-to-live-forever--reducing-and-reversing-the-effects-of-aging.html" aria-label="Who wants to live forever?" style="display: block;">
+                                                           <a href="{{url('/')}}/what-we-do/1" aria-label="Who wants to live forever?" style="display: block;">
                                                                <img src="{{asset('/img/s4.jpg')}}" alt="" />
                                                            </a>
                                                            <div class="text-content">
@@ -169,7 +169,7 @@
                                                    <div class="slide-content">
                                                        <div class="card-content">
                                                            <div class="topic">Histopathology & Cytopathology</div>
-                                                           <a href="who-wants-to-live-forever--reducing-and-reversing-the-effects-of-aging.html" aria-label="Who wants to live forever?" style="display: block;">
+                                                           <a href="{{url('/')}}/what-we-do/1" aria-label="Who wants to live forever?" style="display: block;">
                                                                <img src="{{asset('/img/s5.webp')}}" alt="" />
                                                            </a>
                                                            <div class="text-content">
@@ -184,7 +184,7 @@
                                                    <div class="slide-content">
                                                        <div class="card-content">
                                                            <div class="topic">Immunology</div>
-                                                           <a href="who-wants-to-live-forever--reducing-and-reversing-the-effects-of-aging.html" aria-label="Who wants to live forever?" style="display: block;">
+                                                           <a href="{{url('/')}}/what-we-do/1" aria-label="Who wants to live forever?" style="display: block;">
                                                                <img src="{{asset('/img/s6.webp')}}" alt="" />
                                                            </a>
                                                            <div class="text-content">
